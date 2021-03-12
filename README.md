@@ -1,4 +1,4 @@
-[![Banner](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/source.gif)]
+![Banner](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/source.gif)
 ### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yuriy Lyukov
 [![](https://vistr.dev/badge?repo=yuriylyukov.yuriylyukov&corners=round)](https://github.com/YuriyLyukov/vistr.dev)
 [![](https://img.shields.io/badge/-@yuriylyukov-informational?style=flat&logo=instagram&logoColor=#C222AD&color=2bbc8a)](https://www.instagram.com/yuriylyukov/)
