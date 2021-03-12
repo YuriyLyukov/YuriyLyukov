@@ -1,4 +1,4 @@
-### Hi! 👋, I'm Yuriy Lyukov
+### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yuriy Lyukov
 [![](https://vistr.dev/badge?repo=yuriylyukov.yuriylyukov&corners=square)](https://github.com/YuriyLyukov/vistr.dev)
 <!--
 **YuriyLyukov/YuriyLyukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
