@@ -6,4 +6,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriyLyukov&hide=css,html&title_color=#8A2BE2&text_color=c9cacc&icon_color=8A2BE2&bg_color=00008B" />
 </a>
 <a href="https://github.com/YuriyLyukov/YuriyLyukov">
-  ![yuriylyukov's github stats](https://github-readme-stats.vercel.app/api?username=yuriylyukov&show_icons=true&theme=dracula)
+![yuriylyukov's github stats](https://github-readme-stats.vercel.app/api?username=yuriylyukov&show_icons=true&theme=dracula)
