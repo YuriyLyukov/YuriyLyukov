@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@yuriylyukov-informational?style=flat&logo=instagram&logoColor=#C222AD&color=2bbc8a)](https://www.instagram.com/yuriylyukov/)
 [![](https://img.shields.io/badge/-Yuriy%20Lyukov-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuriylyukov/)](https://www.linkedin.com/in/yuriylyukov/)
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=9370DB)
+![](https://img.shields.io/badge/Editor-Rider_IDEA-informational?style=flat&logo=rider&logoColor=white&color=9370DB)
 ![](https://img.shields.io/badge/Code-.NetCore-informational?style=flat&logo=.net&logoColor=white&color=9370DB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=9370DB)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=9370DB)
