@@ -1,7 +1,6 @@
 ![Banner](https://media.giphy.com/media/hrRJ41JB2zlgZiYcCw/giphy-downsized-large.gif)
 ### Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yuriy Lyukov
 [![](https://vistr.dev/badge?repo=yuriylyukov.yuriylyukov&corners=round)](https://github.com/YuriyLyukov/vistr.dev)
-[![](https://img.shields.io/badge/-@yuriylyukov-informational?style=flat&logo=instagram&logoColor=#C222AD&color=2bbc8a)](https://www.instagram.com/yuriylyukov/)
 [![](https://img.shields.io/badge/-Yuriy%20Lyukov-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yuriylyukov/)](https://www.linkedin.com/in/yuriylyukov/)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/IDE-JetBrains-informational?style=flat&logo=JetBrains&logoColor=white&color=9370DB)
